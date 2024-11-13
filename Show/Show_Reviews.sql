@@ -1,1 +1,1 @@
-SELECT * from pilgrimage_reviews;
+aSELECT * from pilgrimage_reviews;

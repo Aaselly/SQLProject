@@ -15,7 +15,7 @@ INSERT INTO pilgrimage_events (pilgrimage_id, event_name, event_date, event_desc
 (14, 'Shakeshwari Temple Festival', '2024-03-10', 'Annual festival at Shakeshwari Temple.'),
 (15, 'Kali Ghat Festival', '2024-10-01', 'Special rituals for Goddess Kali.'),
 (16, 'Ram Mandir Inauguration', '2024-03-15', 'Inauguration ceremony for Ram Mandir.'),
-(17, 'Rangnath Swamy Festival', '2024-10-10\', 'Celebration at Rangnath Swamy Temple.'),
+(17, 'Rangnath Swamy Festival', '2024-10-10', 'Celebration at Rangnath Swamy Temple.'),
 (18, 'Diwali Celebrations', '2024-11-01', 'Festival of Lights at the Golden Temple.'),
 (19, 'Gurdwara Janam Asthan Celebration', '2024-11-27', 'Celebration of Guru Nanak’s birthday.'),
 (20, 'Vaisakhi Festival', '2024-04-14', 'Celebration of the harvest festival.'),
